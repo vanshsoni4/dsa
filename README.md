@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vanshsoni4/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/vanshsoni4/dsa/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/vanshsoni4/dsa/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/vanshsoni4/dsa/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vanshsoni4/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/vanshsoni4/dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vanshsoni4/dsa/tree/master/0054-spiral-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/vanshsoni4/dsa/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
