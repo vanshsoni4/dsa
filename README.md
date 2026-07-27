@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/vanshsoni4/dsa/tree/master/0237-delete-node-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/vanshsoni4/dsa/tree/master/0707-design-linked-list) |
 ## String
 |  |
 | ------- |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/vanshsoni4/dsa/tree/master/2390-removing-stars-from-a-string) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/vanshsoni4/dsa/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
